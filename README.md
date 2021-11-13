@@ -1,11 +1,20 @@
-## COVID-19-SIMULATION using Erdos Renyi random graphs
+# COVID-19-SIMULATION using Erdos Renyi random graphs
 
-#### Documentation:
+## Documentation:
 
-The program documentation can be found in (Documentation.pdf)
+Refer to [COVID-19_Simulation.pdf](https://github.com/Nishanth-Gobi/COVID-19-SIMULATION/blob/main/COVID-19_Simulation.pdf)
 
-#### Co-authors:
--> Sukumar Ganesan (https://github.com/sukumar1612) </br>
--> Arvind Puthucode (https://www.linkedin.com/in/arvind-puthucode-4aab581a4/)</br>
--> Srivatsan (https://www.linkedin.com/in/srivathsan-sivaramakrishna-144214204/)</br>
--> Thayagarajan (https://www.linkedin.com/in/thyagaraajan-n-r-642b061a9)
+## Co-authors:
+
+[Sukumar Ganesan](https://github.com/sukumar1612) 
+
+[Arvind Puthucode](https://www.linkedin.com/in/arvind-puthucode-4aab581a4/)
+
+[Srivatsan](https://www.linkedin.com/in/srivathsan-sivaramakrishna-144214204/)
+
+[Thayagarajan](https://www.linkedin.com/in/thyagaraajan-n-r-642b061a9)
+
+
+## License
+
+[MIT License](https://github.com/Nishanth-Gobi/COVID-19-SIMULATION/blob/main/LICENSE)
