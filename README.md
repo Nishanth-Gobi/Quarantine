@@ -1,10 +1,10 @@
 # COVID-19-SIMULATION using Erdos Renyi random graphs
 
-## Documentation:
+## Documentation
 
 Refer to [COVID-19_Simulation.pdf](https://github.com/Nishanth-Gobi/COVID-19-SIMULATION/blob/main/COVID-19_Simulation.pdf)
 
-## Co-authors:
+## Co-authors
 
 [Sukumar Ganesan](https://github.com/sukumar1612) 
 
